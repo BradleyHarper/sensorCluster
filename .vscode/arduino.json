@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM4",
+    "sketch": "sketch_jul27a2019dataLog.ino"
+}
